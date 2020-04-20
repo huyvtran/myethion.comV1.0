@@ -1,4 +1,4 @@
-# The First myethion.com V1.0
+# The New myethion.com V1.0
 
 ## Architecture/Philosophies
 > HTML, Bootstrap, CSS, and JS <br>
