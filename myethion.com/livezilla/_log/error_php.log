@@ -1,0 +1,2 @@
+25.12.18 18:04:03 129.56.31.52 ERR# 2 mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) /home/adsproco/myethion.com/livezilla/_lib/objects.global.inc.php IN LINE 7883
+
